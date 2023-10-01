@@ -46,3 +46,6 @@ Please follow the steps below to access code and install the project:
 
 1. Access https://github.com/karolinakulpinska/code-refactor
 2. Above the list of files, click on green 'Code' button.
+![alt text](assets/images/code-button.png)
+3. Copy the URL of the repository.
+- To clone the repository using HTTPS, under "HTTPS", click two files button.
