@@ -10,6 +10,21 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Paragraphs' font size */
+p {
+    font-size: 16px;
+}
+
+/* Images' height */
+img {
+    max-height: 200px;
+}
+
+/* Headers h2 size */
+h2 {
+    font-size: 36px;
+}
+
 /* Header - logo, navbar, header image */
 header {
     padding: 20px;
@@ -49,9 +64,18 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
+.header-image {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
 }
+
+/* Header ends here */
+
+/* Main - split into three cards, img, header and paragraph */
 
 .hero {
     height: 800px;
