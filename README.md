@@ -21,3 +21,28 @@ I've also made sure that the application:
 * loads with no errors;
 * resembles mockup image as close as possible;
 * follows best practices for file structure and naming conventions as well as class/id naming conventions, indentation, quality comments, etc.
+
+Link to deployed application: https://karolinakulpinska.github.io/code-refactor/
+
+## Mockup provided by the Company
+
+![alt text](assets/images/01-html-css-git-challenge-demo.png)
+
+## Screenshot of the refactored website
+
+![alt text](assets/images/screenshot.jpg)
+
+## User Story
+
+```
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
+
+## Installation
+
+Please follow the steps below to access code and install the project:
+
+1. Access https://github.com/karolinakulpinska/code-refactor
+2. Above the list of files, click on green 'Code' button.
