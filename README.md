@@ -75,7 +75,7 @@ $ git clone https://github.com/karolinakulpinska/code-refactor.git
 
 Please see images below for examples of:
 
-- descriptive `alt` attributes
+- descriptive `alt` attributes:
 ![alt text](assets/images/alt-attributes.png)
 - proper commentary:
 ![alt text](assets/images/commentary.png)
